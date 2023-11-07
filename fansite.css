@@ -1,0 +1,159 @@
+html {font-family:Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    background-color: rgb(0, 0, 34);}
+
+#sp {color: rgb(255, 0, 0);
+    text-decoration: none;}
+
+nav {display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    top: 0;
+    margin: 20px 80px;}
+
+#logo-desc{text-align: center;}
+
+nav .buttons button{
+    padding: 10px 30px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+}
+
+nav .onglets{
+    display:contents;
+}
+
+header{
+    background-image: url(https://i.ytimg.com/vi/QHiC4lHrJLg/maxresdefault.jpg);
+    background-size: cover;
+}   
+h1{
+    color: rgb(255, 0, 0);
+}
+h3{color: whitesmoke;}
+
+.jeu {
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 270px;
+}
+
+
+p{color: white;
+    text-align: left;}
+
+.film {
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 240px;
+}
+footer{
+    background-image: url(https://w.wallhaven.cc/full/9m/wallhaven-9m2g58.jpg);
+    background-size: cover;
+    padding: 80px 100px;
+    color: gray;
+}
+.vertical{
+    display: flex;
+    flex-wrap: flex;
+    justify-content: space-between;
+    text-align:content;
+    font-size: small;}
+
+.pp{ float: left;
+margin-right: 20px;
+width:270px
+; }
+
+.jeu2 {
+    width: 400px;
+}
+.jeu3 {
+    width: 400px;
+}
+.jeu4 {
+    width: 400px;
+}
+.film2 {
+    width: 410px;
+}
+.film3 {
+    width: 410px;
+}
+.film4 {
+    width: 410px;
+}
+.real{
+    background-image: url(https://img.mensxp.com/media/content/2020/Nov/Marvels-Spider-Man-Miles-Morales-Review-1400x63_5fa5439dbb2ff.jpeg);
+    background-size: cover;
+}
+.real1{
+    width: 360px;
+    float: left;
+    margin-right: 10px;  
+}
+.real2{
+    width:360px;
+    margin-right: 10px; 
+}
+.real3{
+    width:360px;
+    margin-right: 10px; 
+}
+.real4{
+    width:360px;
+}
+.real5{
+    width:400px;
+    margin-right: 10px;
+}
+.real6{
+    width:530px;
+    margin-right: 10px;  
+}
+.real7{
+    width:530px;
+    margin-right: 10px;  
+ 
+}
+.contact{
+    background-image: url(https://pbs.twimg.com/media/EpNwc2qW8AIqpBj.jpg);
+    background-size: cover;
+}
+.formulaire{
+    font-size: large;
+    color: aliceblue;
+}
+.contact1{
+    width: 450px;
+    float: left;
+}
+.contact2{
+    width: 450px;
+    float: right;
+}
+.event{
+    background-image: url(https://www.master-journalisme-gennevilliers.fr/wp-content/uploads/MilesMorales.jpeg);
+    background-size: cover;
+}
+.videops5{
+    width:580px ;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+.videofilm{
+    width:580px ;
+    height: auto;
+    float: right;
+    margin-left: 20px;
+}
+.event1{
+    width:300px ;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
